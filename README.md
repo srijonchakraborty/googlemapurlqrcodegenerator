@@ -10,3 +10,7 @@ Features
 Application Output:
 
 ![image](https://github.com/user-attachments/assets/10ffebce-fc64-4f13-8d08-e1f07b37d393)
+
+1. Generating Google Maps URL with GPS Coordinates Displaying Complete URL
+2. Create Google Maps links based on coordinates with waypoints
+3. Discover coordinates or search by latitude & longitude
