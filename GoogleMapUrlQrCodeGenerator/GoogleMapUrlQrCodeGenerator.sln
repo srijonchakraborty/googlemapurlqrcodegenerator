@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapUrlQrCodeGenerator", "GoogleMapUrlQrCodeGenerator\GoogleMapUrlQrCodeGenerator.csproj", "{4DF7D371-F005-4B70-95F8-623CE288F447}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleMapUrlQrCodeGenerator", "GoogleMapUrlQrCodeGenerator\GoogleMapUrlQrCodeGenerator.csproj", "{4DF7D371-F005-4B70-95F8-623CE288F447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleUrlAndQrCodeGeneratorLib", "GoogleUrlAndQrCodeGeneratorLib\GoogleUrlAndQrCodeGeneratorLib.csproj", "{E947CD08-BDF8-434E-82C1-EFB0A5956D47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4DF7D371-F005-4B70-95F8-623CE288F447}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DF7D371-F005-4B70-95F8-623CE288F447}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DF7D371-F005-4B70-95F8-623CE288F447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E947CD08-BDF8-434E-82C1-EFB0A5956D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E947CD08-BDF8-434E-82C1-EFB0A5956D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E947CD08-BDF8-434E-82C1-EFB0A5956D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E947CD08-BDF8-434E-82C1-EFB0A5956D47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
