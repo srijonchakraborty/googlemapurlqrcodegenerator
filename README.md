@@ -1,5 +1,5 @@
-# googlemapurlqrcodegenerator
-Google Map URL Generator with QR Code
+# Google Map Application Winform C#
+## Google Map URL Generator with QR Code
 
 This application allows you to quickly generate a Google Maps URL for any location and convert it into a QR code for easy sharing. Ideal for businesses, events, or personal use, it simplifies the process of sharing map locations.
 Features
